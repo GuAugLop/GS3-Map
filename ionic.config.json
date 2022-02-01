@@ -1,0 +1,7 @@
+{
+  "name": "mapapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
