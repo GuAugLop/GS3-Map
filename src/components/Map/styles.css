@@ -1,0 +1,7 @@
+.title {
+  text-align: center;
+}
+
+.modal-wrapper .ion-overlay-wrapper{
+    height: 100px !important;
+}
